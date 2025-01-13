@@ -27,13 +27,11 @@ The **2048 Tiles game** involves merging numbered tiles on a 4×4 grid to create
 
 ```
 .
-├── proposal.pdf                    # Project proposal document
+├── ML Project proposal.pdf                    # Project proposal document
 ├── project_report.pdf              # Final project report
 ├── q-learning.py                   # Implementation of Q-learning for 2048
 ├── dqn.ipynb                       # DQN implementation in a Jupyter notebook
 ├── mcts.py                         # Monte Carlo Tree Search implementation
-├── plots/                          # Generated performance visualizations
-├── utils/                          # Helper scripts for state management
 └── README.md                       # Repository documentation
 ```
 
